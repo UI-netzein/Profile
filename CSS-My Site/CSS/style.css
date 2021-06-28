@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    color:#40514E;
+    text-align: center;
+    
+    
+}
+h1{
+    margin: 0;
+    padding-top: 100px;;
+    font-family: 'Kirang Haerang', cursive;
+    font-size:4rem;
+    color:#66BFBF;
+}
+.top-container{
+    
+    background-color:#CAF7E3;
+    position: relative;
+}
+h2{
+    font-size: 2.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+    font-family: 'Yanone Kaffeesatz', sans-serif;;
+}
+h3{
+    color:#11999E;
+    font-weight: normal;
+    font-family: 'Arial', sans-serif;
+}
+.p{
+    font-family: 'Verdana' sans-serif;
+    font-weight: bold;
+}
+/*
+.middle-container{
+    
+}
+.bottom-container{
+    
+}*/
+
+.pro{
+    text-decoration: underline;
+    
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+.bottom-cloud{
+    position: absolute;
+    
+}
+.skill-row{
+    width:50%;
+    margin:100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.typing-skill{
+    width:30%;
+    float:left;
+    padding:30px;
+}
+.thinking-skill{
+    width:30%;
+    float:left;
+    padding:30px;
+}
+.profile{
+    padding:50px;
+    
+}
+.profile-info{
+    width:30%;
+    margin:0 auto;
+    color:#0A1931;
+    font-weight: 1000;
+}
+hr{
+    
+    width: 3%;
+    border:5px dotted gray;
+    border-bottom: none;
+}
+.contact-me{
+    margin-bottom:25px;
+    padding:20px;
+
+}
+#para{
+    
+    width:50%;
+    margin: 50px auto;
+}
+.btn{
+    color:white;
+    background-color: #129ea3;
+    padding:10px 17px;
+    margin: 100px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:22px;
+    letter-spacing: 2px;
+}
+    
+     
+.btn:hover{
+        
+    background-color:#0b686b;
+    cursor: pointer;
+     }
+.bottom-container{
+    background-color:#CAF7E3;
+    padding:35px;
+}
+.footer-link{
+    text-decoration: none;
+    color:#0b6568;
+    padding:15px;
+    
+}
+#copyright{
+    margin-top:50px;
+    color: #000;
+}
